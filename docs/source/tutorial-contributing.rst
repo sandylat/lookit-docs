@@ -280,6 +280,7 @@ List of tutorial participants
 - Victoria Fracalossi (American University)
 - Niomi Friedlander (University of Minnesota)
 - Sienna Radifera (MIT)
+- Sandy LaTourrette (University of Pennsylvania)
 
 Checking for and creating issues on Github
 -------------------------------------------
